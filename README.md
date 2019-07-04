@@ -24,9 +24,9 @@ This is library source code to work with LED Matrix Displays. Library is both fu
 More info on [OptoLAB](http://www.optolab.ftn.uns.ac.rs/index.php/education/project-base/242-led-matrix-display-library-examples)
 
 Preconfigure and precompiled examples:
-   - [MINI-32 for PIC32MX](https://) 
-   - [MINI-32 for PIC32MZ](https://)
-   - [MINI-M4 for STM32](https://)
+   - [MINI-32 for PIC32MX](https://github.com/OptoLAB/LED-Matrix-Display-Driver-PIC32MX) 
+   - [MINI-32 for PIC32MZ](https://github.com/OptoLAB/LED-Matrix-Display-Driver-PIC32MZ)
+   - [MINI-M4 for STM32](https://github.com/OptoLAB/LED-Matrix-Display-Driver-STM32)
 
 Demo video on [youtube](https://)
 
