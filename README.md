@@ -28,7 +28,7 @@ Preconfigure and precompiled examples:
    - [MINI-32 for PIC32MZ](https://github.com/OptoLAB/LED-Matrix-Display-Driver-PIC32MZ)
    - [MINI-M4 for STM32](https://github.com/OptoLAB/LED-Matrix-Display-Driver-STM32)
 
-Demo video on [youtube](https://)
+Demo video on [youtube](https://www.youtube.com/watch?v=5Obz87ZCj9I)
 
 ## Library organization (REV_DATE 230519)
 ![Screenshot](schematic.jpg)
