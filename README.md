@@ -2,7 +2,7 @@
 
 ## About Library (REV_DATE 230519)
 
-This is library source code to work with LED Matrix Displays. Library is both functionaly and platform configurable. Current version supports following:
+This is library source code to work with LED Matrix Displays. Library is both functionally and platform configurable. Current version supports following:
 
 - Board (platform) selection. Included boards:
    - [MINI-32 for PIC32MX](https://www.mikroe.com/mini-pic32mx) 
