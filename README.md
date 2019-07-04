@@ -21,6 +21,8 @@ This is library source code to work with LED Matrix Displays. Library is both fu
    - Timer - refresh triggered by timer, requires timer interrupt implementation to execute function refreshDisplay() 
    - FreeRTOS - refresh executed in separate FREERTOS task, requires separate task implementation for refreshDisplay() execution
 
+More info on [OptoLAB](http://www.optolab.ftn.uns.ac.rs/index.php/education/project-base/242-led-matrix-display-library-examples)
+
 Preconfigure and precompiled examples:
    - [MINI-32 for PIC32MX](https://) 
    - [MINI-32 for PIC32MZ](https://)
