@@ -28,4 +28,4 @@ Preconfigure and precompiled examples:
 
 Demo video on [youtube](https://)
 
-![alt text](https://github.com/OptoLAB/LED-Matrix-Display-Driver/blob/master/block%20diagram.jpg)
+![Screenshot](schematic.jpg)
